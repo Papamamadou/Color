@@ -1,0 +1,6 @@
+.ColorBox {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #30c8df;
+    background-color: green;
+}
